@@ -17,7 +17,7 @@ const Landing = () => (
   <main>
     <section className="panels" id="home">
       <div className="jumbotron">
-        <h2 className="section-heading">🧁Hi! I like Cupcakes</h2>
+        <h2 className="section-heading">This isn't done</h2>
         <Quote />
       </div>
     </section>
@@ -30,7 +30,7 @@ const Landing = () => (
           <h2 className="section-heading">ABOUT ME</h2>
           <hr />
           <p style={{ fontSize: 14}}>
-            🧁 this site randomizes many elements per load! I did this because choosing things is hard.
+            But it will be by the end of summer
           </p>
           <p>
              🧁This is paragraph one. My favourite type of cupcake is red velvet because they look so pretty and also taste amazing.

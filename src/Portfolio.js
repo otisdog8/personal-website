@@ -23,15 +23,15 @@ class Portfolio extends Component {
           <center>
             <span style={{color: '#808080'}}>🧁Little blurb, good for a "last updated"</span>
             <Slider
-              defaultValue={2}
+              defaultValue={3}
               min={1}
               max={5}
               marks={{
-                1: 'Less things',
-                2: 'Default',
-                3: 'More things',
-                4: 'Lots of things',
-                5: 'Shit List',
+                1: 'Least',
+                2: 'Less',
+                3: 'Default',
+                4: 'More',
+                5: 'Most',
               }}
               dots
               onChange={v => this.setState({ slider: v })}
