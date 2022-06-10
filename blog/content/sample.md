@@ -1,6 +1,6 @@
 +++
-title = "Sample Article"
-date = 2020-05-12
+title = "First article"
+date = 2022-06-09
 +++
 
-Banana cupcakes yum
+Welcome to my blog!
